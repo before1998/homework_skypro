@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Цвета */
+.red { color: red; }
+.green { color: green; }
+.blue { color: blue; }
+.purple { color: purple; }
+
+/* Начертание */
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Размеры текста */
+.small { font-size: 0.8em; }
+.medium { font-size: 1em; }
+.large { font-size: 1.4em; }
+
+/* Списки */
+ul, ol {
+    margin: 10px 0;
+    padding-left: 30px;
+}
+
+li {
+    margin: 5px 0;
+}

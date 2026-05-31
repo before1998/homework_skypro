@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Цвета текста */
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+/* Начертание текста */
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.italic {
+    font-weight: normal;
+    font-style: italic;
+}

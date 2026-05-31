@@ -1,0 +1,33 @@
+/* Сброс базовых стилей */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Исправленная иерархия заголовков */
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+
+/* Списки */
+ol, ul {
+    margin: 10px 0;
+    padding-left: 30px;
+}
+
+/* Классы форматирования текста */
+.bold {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.italic {
+    font-weight: normal;
+    font-style: italic;
+}
+
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
